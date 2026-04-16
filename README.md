@@ -141,7 +141,4 @@ Provides insight into product contribution and demand distribution.
 ## 📸 Screenshots / Demo
 
 **Dashboard Preview**
-https://github.com/srilakshmi1108/Global-Sales-Performance-Profitability-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.PNG
-
-Show what the dashboard looks like.
 Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/srilakshmi1108/Global-Sales-Performance-Profitability-Dashboard/blob/main/Snapshot%20of%20the%20Dashboard.PNG))
