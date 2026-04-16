@@ -2,11 +2,11 @@
 
 A dynamic Power BI dashboard designed to analyze sales, profit, and business performance across countries, customer segments, and products. The dashboard enables quick comparison of revenue trends, profitability, and operational efficiency.
 
-#🧾 Short Description / Purpose
+##🧾 Short Description / Purpose
 
 This dashboard provides a structured view of global sales data, helping users understand revenue distribution, profit performance, and trends across time, geography, and customer segments. It is built to support data-driven decision-making for business stakeholders.
 
-#🛠️ Tech Stack
+##🛠️ Tech Stack
 
 The dashboard was built using:
 
@@ -79,11 +79,11 @@ Units Sold % by Product
 
 Provides insight into product contribution and demand distribution.
 
-#📈 Business Impact & Insights
+##📈 Business Impact & Insights
 Profit vs Sales Gap: High revenue does not always translate to high profitability, highlighting the importance of margin analysis
 Segment Performance: Certain segments contribute more to revenue but may not be the most efficient
 Geographical Insights: A few countries dominate total sales, indicating potential dependency or opportunity for expansion
 Product Strategy: Top-selling products drive revenue concentration, suggesting areas for scaling or diversification
 Trend Analysis: Sales fluctuate over time, indicating possible seasonality or external business factors
-#📸 Screenshots / Demo
+##📸 Screenshots / Demo
 Dashboard Preview
